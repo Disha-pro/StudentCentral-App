@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">studentcentral</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password"> Password</string>
+    <string name="registration"> REGISTRATION</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">LOGOUT</string>
+</resources>
